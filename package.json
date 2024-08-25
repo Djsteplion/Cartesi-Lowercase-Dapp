@@ -1,5 +1,5 @@
 {
-  "name": "cartesi-dapp-lowercase",
+  "name": "cartesi-lowercase-dapp",
   "version": "0.1.0",
   "description": "Javascript DApp for converting strings to lowercase",
   "main": "index.js",
